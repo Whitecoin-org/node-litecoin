@@ -12,7 +12,7 @@ node-whitecoin is a simple wrapper for the whitecoin client's JSON-RPC API.
 ```js
 var client = new whitecoin.Client({
   host: 'localhost',
-  port: 8332,
+  port: 15815,
   user: 'username',
   pass: 'password'
 });
