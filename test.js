@@ -1,9 +1,9 @@
 
-var litecoin = require('./lib');
+var whitecoin = require('./lib');
 
-var client = new litecoin.Client({
+var client = new whitecoin.Client({
   host: 'localhost',
-  port: 9332,
+  port: 15815,
   user: 'yourusername',
   pass: 'youpassword'
 });
