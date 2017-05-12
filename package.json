@@ -1,7 +1,7 @@
 {
   "name": "node-whitecoin",
   "description": "Communicate with whitecoind via JSON-RPC",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "keywords": [
     "whitecoin",
