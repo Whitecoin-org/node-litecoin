@@ -1,6 +1,11 @@
 # node-whitecoin
 
-node-whitecoin is a simple wrapper for the whitecoin client's JSON-RPC API.
+node-whitecoin is a simple wrapper for the [Whitecoin](https://www.whitecoin.info/) client's JSON-RPC API.
+
+**Learn more**
+* [Official Whitecoin website](https://www.whitecoin.info/)
+* [Join our Discord server](https://discordapp.com/invite/GbpdbMt)
+* [BitcoinTalk page](https://bitcointalk.org/index.php?topic=804288.0)
 
 ## Install
 
